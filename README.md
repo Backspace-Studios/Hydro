@@ -24,7 +24,7 @@ By using Hydro, you acknowledge and agree to the following:
 
 ## Usage
 
-run the /help command in a slack chat with Hydro intergrated to see a list of all commands, along
+Run the /help command in a slack chat with Hydro intergrated to see a list of all commands, along
 with their uses.
 
 ## Installation
