@@ -22,14 +22,16 @@ By using Hydro, you acknowledge and agree to the following:
 - **Notifications**: Display desktop notifications on the local machine.
 - **PowerShell Command Execution**: Execute PowerShell commands and return the output to Slack.
 
-## Usage
+## Commands
 
 Run the /help command in a slack chat with Hydro intergrated to see a list of all commands, along
 with their uses.
 
 ## Installation
 
-I can't be bothered writing an installation guide. Just ask ChatGPT.
+I can't be bothered writing an installation guide. Just ask ChatGPT or email me at anonymous.1221.246810@gmail.com
+
+
 
 
 
